@@ -78,12 +78,13 @@ bash <(curl -Ls https://raw.githubusercontent.com/xelroth/VPNexus/master/main.sh
 
 **Screenshots** 📸
 
-[Insert screenshots of the script in action]
+### MAIN Menu
 
-**Contributing** 🤝
+<img src="/images/main_menu.png">
 
-[Insert information on how to contribute to the project]
+### GIFS
+![](/images/menu.gif)
 
 **License** ©️
 
-[Insert license information]
+VPNexus is protected by the MIT License. See [LICENSE](LICENSE) for more information.
