@@ -15,7 +15,7 @@ With VPNexus, you can:
 
 **And more!** 🤔
 
-* Easily install and configure your server with our intuitive menu-driven interface.
+* Easily install and configure your server with our intuitive menu-driven interface and install all the required tools for tunneling and more.
 * Get started quickly with our automated installation process.
 * Customize your server setup to fit your needs.
 
@@ -72,10 +72,17 @@ bash <(curl -Ls https://raw.githubusercontent.com/xelroth/VPNexus/master/main.sh
 
 **Next Updates** 🚧
 
-* **Coming soon:** Support for more tunnel methods and scripts
-* **In development:** Improved notification system with more providers
-* **Planned:** Integration with popular VPN services
+* **Coming soon:** Support for more tunnel methods and scripts.
+* **In development:** Improving notification system with more providers and adding email notification system as well.
 
+**Contribution** 🤝
+
+We welcome contributions to VPNexus! If you're interested in contributing to the project, please don't hesitate to reach out. You can contact me via:
+
+* Email: [devkoohyar@gmail.com](mailto:devkoohyar@gmail.com)
+* Telegram: [@ZELROTH](https://t.me/ZELROTH)
+
+Whether it's a bug report, a feature request, or a pull request, your contribution is valued and appreciated. Let's work together to make VPNexus even better!
 **Screenshots** 📸
 
 ### MAIN Menu
