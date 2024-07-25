@@ -40,3 +40,50 @@ bash <(curl -Ls https://raw.githubusercontent.com/xelroth/VPNexus/master/main.sh
 * **Oracle Linux 8+**
 * **OpenSUSE Tubleweed**
 
+**Options** 📋
+
+* **Tunnel Methods** 🌐
+	+ 6to4
+	+ WireGuard
+	+ iptables
+	+...
+* **Script Installer** 📝
+	+ WizWiz XUI Panel
+	+ XSSH Panel/Bot
+	+ sanaie script
+	+ Alireza script
+	+ Ghost script
+	+ PFTUN script
+	+ Reverse script
+	+ IR-ISPBLOCKER script
+	+...
+* **SMS Providers** 📱
+	+ IPPanel
+	+ Kavenegar
+	+ Elanak
+	+...
+* **VPN Selling Bots/Panels** 📈
+	+ WizWiz
+	+ XSSH
+	+...
+* **Notification System** 📣
+	+ SMS notifications
+	+...
+
+**Next Updates** 🚧
+
+* **Coming soon:** Support for more tunnel methods and scripts
+* **In development:** Improved notification system with more providers
+* **Planned:** Integration with popular VPN services
+
+**Screenshots** 📸
+
+[Insert screenshots of the script in action]
+
+**Contributing** 🤝
+
+[Insert information on how to contribute to the project]
+
+**License** ©️
+
+[Insert license information]
